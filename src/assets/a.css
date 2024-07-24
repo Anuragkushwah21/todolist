@@ -1,0 +1,49 @@
+body {
+    background-color: #f3eeee;
+    color: white;
+  }
+  
+  h1 {
+    color: #fff;
+  }
+  
+  .form-control {
+    background-color: #e6dbdb;
+    border: none;
+    color: #0f0f0f;
+  }
+  
+  .form-control:focus {
+    background-color: #fffbfb;
+    border: none;
+    color: #070707;
+  }
+  
+  .btn-primary {
+    background-color: #4caf50;
+    border: none;
+    width: 100px;
+  }
+  
+  .list-group-item {
+    background-color: #333;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .list-group-item.completed {
+    text-decoration: line-through;
+    color: #888;
+  }
+  
+  .list-group-item .btn-danger {
+    background-color: #ff5252;
+    border: none;
+    width: 100px;
+  }
+  
+  .list-group-item .btn-danger:hover {
+    background-color: #ff4444;
+  }
+  
